@@ -12,7 +12,7 @@ public class Main {
         //saveText("blabla bla");
         List<String> aList = new ArrayList<String>(32);
         List<String> lList = new LinkedList<String>();
-        aList.add("Koteka");
+        aList.add("Koteki");
         aList.add("Koteczek");
         lList.add("Piesek");
         System.out.println(aList.get(0));
